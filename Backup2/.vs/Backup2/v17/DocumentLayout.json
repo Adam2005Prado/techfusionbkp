@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|c:\\users\\aluno\\documents\\github\\techfusionbkp\\backup2\\backup2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\backup2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\backup2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\backup2\\classe_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\classe_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\backup2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\backup2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\backup2\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\backup2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBFB214-231E-4046-BC7E-1E769A7C3C71}|Backup2\\Backup2.csproj|solutionrelative:backup2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 171,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\Backup2\\Form2.cs",
+              "RelativeDocumentMoniker": "Backup2\\Form2.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\Backup2\\Form2.cs",
+              "RelativeToolTip": "Backup2\\Form2.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAIA4wCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:26:26.724Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\Backup2\\Form3.cs",
+              "RelativeDocumentMoniker": "Backup2\\Form3.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\Backup2\\Form3.cs [Design]",
+              "RelativeToolTip": "Backup2\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:43:44.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\Backup2\\Form1.cs",
+              "RelativeDocumentMoniker": "Backup2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\Backup2\\Form1.cs",
+              "RelativeToolTip": "Backup2\\Form1.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAUwJkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:42:19.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\Backup2\\Form1.cs",
+              "RelativeDocumentMoniker": "Backup2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\Backup_2\\Backup2\\Backup2\\Form1.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\Backup_2\\Backup2\\Backup2\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:22:50.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Classe_produto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\Backup2\\Classe_produto.cs",
+              "RelativeDocumentMoniker": "Backup2\\Classe_produto.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\Backup2\\Classe_produto.cs",
+              "RelativeToolTip": "Backup2\\Classe_produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:12:07.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\Backup2\\Form2.cs",
+              "RelativeDocumentMoniker": "Backup2\\Form2.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\Backup_2\\Backup2\\Backup2\\Form2.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\Backup_2\\Backup2\\Backup2\\Form2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:25:15.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\Backup2\\Conexao.cs",
+              "RelativeDocumentMoniker": "Backup2\\Conexao.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\Backup2\\Conexao.cs",
+              "RelativeToolTip": "Backup2\\Conexao.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:46:05.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\Backup2\\Program.cs",
+              "RelativeDocumentMoniker": "Backup2\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\techfusionbkp\\Backup2\\Backup2\\Program.cs",
+              "RelativeToolTip": "Backup2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:43:33.917Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
