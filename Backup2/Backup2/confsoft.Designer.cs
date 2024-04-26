@@ -30,6 +30,7 @@
         {
             pictureBox2 = new PictureBox();
             pictureBox1 = new PictureBox();
+            button1 = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
@@ -56,11 +57,22 @@
             pictureBox1.TabStop = false;
             pictureBox1.Click += pictureBox1_Click;
             // 
+            // button1
+            // 
+            button1.Location = new Point(21, 778);
+            button1.Name = "button1";
+            button1.Size = new Size(155, 51);
+            button1.TabIndex = 2;
+            button1.Text = "button1";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
             // confsoft
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1282, 828);
+            Controls.Add(button1);
             Controls.Add(pictureBox1);
             Controls.Add(pictureBox2);
             Name = "confsoft";
@@ -74,5 +86,6 @@
         #endregion
         private PictureBox pictureBox2;
         private PictureBox pictureBox1;
+        private Button button1;
     }
 }

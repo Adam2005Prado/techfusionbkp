@@ -37,5 +37,12 @@ namespace Backup2
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            comprasoft comprasoft = new comprasoft();
+            this.Hide();
+            comprasoft.ShowDialog();
+        }
     }
 }
