@@ -1,6 +1,6 @@
 ﻿namespace Backup2
 {
-    partial class Form2
+    partial class pagsoft
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(pagsoft));
             panel1 = new Panel();
             pictureBox1 = new PictureBox();
             comboBox1 = new ComboBox();

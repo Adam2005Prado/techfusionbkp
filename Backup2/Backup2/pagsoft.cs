@@ -11,12 +11,13 @@ using System.Windows.Forms;
 
 namespace Backup2
 {
-    public partial class Form2 : Form
+    public partial class pagsoft : Form
     {
         Classe_produto pct = new Classe_produto();
+        Classe_produto CP = new Classe_produto();
 
 
-        public Form2(Classe_produto Produto, float tam)
+        public pagsoft(Classe_produto Produto, float tam)
         {
             InitializeComponent();
             pictureBox1.Image = Produto.imagem;
@@ -76,16 +77,15 @@ namespace Backup2
         private void Pagar_Click(object sender, EventArgs e)
         {
             if (comboBox1.SelectedIndex == 0) {
-                Classe_produto CP = new Classe_produto();
-                preco3 = CP.preco;
-                desconto = preco3 * 0.05;
+                CP.preco3 = CP.preco;
+                CP.desconto = CP.preco3 * 0.05;
             }
             else
             {
-                desconto = preco3;
+                CP.desconto = CP.preco3;
             }
-            form3 form3 = new Form3(pct);
-            form3.showDialog();
+            confsoft form3 = new confsoft(pct);
+            form3.ShowDialog();
     }
     }
 }

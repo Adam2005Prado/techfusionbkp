@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Backup2
 {
-    public partial class Form3 : Form
+    public partial class confsoft : Form
     {
-        public Form3()
+        public confsoft(Classe_produto produto)
         {
             InitializeComponent();
         }

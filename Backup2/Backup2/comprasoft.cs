@@ -4,14 +4,14 @@ using System.Data;
 
 namespace Backup2
 {
-    public partial class Form1 : Form
+    public partial class comprasoft : Form
     {
 
         Image produto;
 
 
 
-        public Form1()
+        public comprasoft()
         {
             InitializeComponent();
         }
@@ -30,7 +30,7 @@ namespace Backup2
             dados = cn.obterdados("Select * from produto_soft where Cod_produto = " + 1);
             cp.preco = float.Parse(dados.Rows[0][2].ToString());
 
-            Form2 form2 = new Form2(cp, tam);
+            pagsoft form2 = new pagsoft(cp, tam);
             form2.ShowDialog();
 
         }
@@ -54,7 +54,7 @@ namespace Backup2
             dados = cn.obterdados("Select *  produto_soft where Cod_produto = " + 2);
             cp.preco = float.Parse(dados.Rows[0][2].ToString());
 
-            Form2 form2 = new Form2(cp, tam);
+            pagsoft form2 = new pagsoft(cp, tam);
             form2.ShowDialog();
 
         }
@@ -73,7 +73,7 @@ namespace Backup2
             dados = cn.obterdados("Select * from  produto_soft where Cod_produto = " + 3);
             cp.preco = float.Parse(dados.Rows[0][2].ToString());
 
-            Form2 form2 = new Form2(cp, tam);
+            pagsoft form2 = new pagsoft(cp, tam);
             form2.ShowDialog();
         }
 
@@ -89,7 +89,7 @@ namespace Backup2
             dados = cn.obterdados("Select * from produto_soft where Cod_produto = " + 4);
             cp.preco = float.Parse(dados.Rows[0][2].ToString());
 
-            Form2 form2 = new Form2(cp, tam);
+            pagsoft form2 = new pagsoft(cp, tam);
             form2.ShowDialog();
         }
 
@@ -105,7 +105,7 @@ namespace Backup2
             dados = cn.obterdados("Select * from  produto_soft where Cod_produto = " + 5);
             cp.preco = float.Parse(dados.Rows[0][2].ToString());
 
-            Form2 form2 = new Form2(cp, tam);
+            pagsoft form2 = new pagsoft(cp, tam);
             form2.ShowDialog();
         }
 
@@ -121,7 +121,7 @@ namespace Backup2
             dados = cn.obterdados("Select *  produto_soft where Cod_produto = " + 6);
             cp.preco = float.Parse(dados.Rows[0][2].ToString());
 
-            Form2 form2 = new Form2(cp, tam);
+            pagsoft form2 = new pagsoft(cp, tam);
             form2.ShowDialog();
         }
 
@@ -138,7 +138,7 @@ namespace Backup2
             dados = cn.obterdados("Select * from  produto_soft where Cod_produto = " + 7);
             cp.preco = float.Parse(dados.Rows[0][2].ToString());
 
-            Form2 form2 = new Form2(cp, tam);
+            pagsoft form2 = new pagsoft(cp, tam);
             form2.ShowDialog();
         }
 
@@ -154,7 +154,7 @@ namespace Backup2
             dados = cn.obterdados("Select * from  produto_soft where Cod_produto = " + 8);
             cp.preco = float.Parse(dados.Rows[0][2].ToString());
 
-            Form2 form2 = new Form2(cp, tam);
+            pagsoft form2 = new pagsoft(cp, tam);
             form2.ShowDialog();
         }
 

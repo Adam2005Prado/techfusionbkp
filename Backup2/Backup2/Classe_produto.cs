@@ -12,8 +12,10 @@ namespace Backup2
        public string nome;
        public Image imagem;
        public string quantidade;
-        public float preco;
-        public float preco2;
+        public double preco;
+        public double preco2;
+        public double preco3;
+        public double desconto;
        
         public Classe_produto() 
         { 

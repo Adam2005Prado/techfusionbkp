@@ -1,6 +1,6 @@
 ﻿namespace Backup2
 {
-    partial class Form3
+    partial class confsoft
     {
         /// <summary>
         /// Required designer variable.
@@ -28,10 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form3";
+            SuspendLayout();
+            // 
+            // confsoft
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Name = "confsoft";
+            Text = "Form3";
+            ResumeLayout(false);
         }
 
         #endregion
