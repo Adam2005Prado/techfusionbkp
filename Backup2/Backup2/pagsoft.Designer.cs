@@ -34,8 +34,6 @@
             comboBox1 = new ComboBox();
             label123 = new Label();
             preco = new Label();
-            button1 = new Button();
-            button2 = new Button();
             Pagar = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
@@ -96,24 +94,6 @@
             preco.Text = "preço";
             preco.Click += label1_Click_2;
             // 
-            // button1
-            // 
-            button1.Location = new Point(310, 82);
-            button1.Name = "button1";
-            button1.Size = new Size(94, 29);
-            button1.TabIndex = 6;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            button2.Location = new Point(318, 90);
-            button2.Name = "button2";
-            button2.Size = new Size(94, 29);
-            button2.TabIndex = 7;
-            button2.Text = "button2";
-            button2.UseVisualStyleBackColor = true;
-            // 
             // Pagar
             // 
             Pagar.Location = new Point(948, 605);
@@ -124,21 +104,19 @@
             Pagar.UseVisualStyleBackColor = true;
             Pagar.Click += Pagar_Click;
             // 
-            // Form2
+            // pagsoft
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(1282, 828);
             Controls.Add(Pagar);
-            Controls.Add(button2);
-            Controls.Add(button1);
             Controls.Add(preco);
             Controls.Add(label123);
             Controls.Add(comboBox1);
             Controls.Add(panel1);
             Controls.Add(pictureBox1);
-            Name = "Form2";
+            Name = "pagsoft";
             Text = "Form2";
             Load += Form2_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
@@ -153,8 +131,6 @@
         private ComboBox comboBox1;
         private Label label123;
         private Label preco;
-        private Button button1;
-        private Button button2;
         private Button Pagar;
     }
 }
